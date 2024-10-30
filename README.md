@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Josemar dos Santos 👋🏾
-Tenho 26 anos, formado em Análise e Desenvolvimento de Sistemas.
+26 anos, formado em Análise e Desenvolvimento de Sistemas.
 
 Entusiasta da programação, aprendizado constante e inovação para transformar ideias em soluções práticas.
 

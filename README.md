@@ -21,12 +21,3 @@ Entusiasta da programação, aprendizado constante e inovação para transformar
 </div>
 
 </br>
-
-Entusiasta da programação, aprendizado constante e inovação para transformar ideias em soluções práticas.
-## Repositórios
-<a href="https://github.com/2sant0s/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2sant0s&repo=sis-agendador" />
-</a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> -->

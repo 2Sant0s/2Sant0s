@@ -3,8 +3,7 @@ Tenho 26 anos, formado em Análise e Desenvolvimento de Sistemas.
 
 Entusiasta da programação, aprendizado constante e inovação para transformar ideias em soluções práticas.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josemar2santos/)
-[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemar-s/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemar-s/)
 
 ![2Sant0s GitHub stats](https://github-readme-stats.vercel.app/api?username=2Sant0s&show_icons=true&theme=dark)
 

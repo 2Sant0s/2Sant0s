@@ -61,7 +61,7 @@ My name is Josemar dos Santos, I’m 26 years old and a technology student passi
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=2Sant0s&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
@@ -69,7 +69,7 @@ My name is Josemar dos Santos, I’m 26 years old and a technology student passi
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=2Sant0s&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   />
 

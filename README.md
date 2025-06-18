@@ -13,7 +13,7 @@ My name is Josemar dos Santos, I’m 26 years old and a technology student passi
 
 ---
 
-### 🤖 Languages
+### 🤖 Technologies
 
 <img 
     align="left" 

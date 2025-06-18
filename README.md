@@ -9,7 +9,6 @@ My name is Josemar dos Santos, I’m 26 years old and a technology student passi
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:josemardsantoss@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/josemar-s/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor&color:FFF)](https://www.instagram.com/josemar2santos/)
 
 
 ---

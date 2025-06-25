@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-My name is Josemar dos Santos, I’m 26 years old and a technology student passionate about software development. I’m constantly learning, exploring different languages and tools to grow professionally and keep up with market trends.
+My name is Josemar dos Santos, I’m 27 years old and a technology student passionate about software development. I’m constantly learning, exploring different languages and tools to grow professionally and keep up with market trends.
 
 
 <h3 align="left">Connect with me!</h3>

@@ -20,9 +20,8 @@ My name is Josemar dos Santos, I’m 27 years old and a technology student passi
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket emoji" width="23" style="vertical-align:middle;"/> Stats</h2>
 
-
-### 📊 Stats
 
 <p>
   <img 
@@ -47,3 +46,5 @@ My name is Josemar dos Santos, I’m 27 years old and a technology student passi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2Sant0s/2Sant0s/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2Sant0s/2Sant0s/output/github-contribution-grid-snake.svg">
 </picture>
+
+![Animated Footer](https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572)

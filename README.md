@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-My name is Josemar dos Santos, I’m 27 years old and a technology student passionate about software development. I’m constantly learning, exploring different languages and tools to grow professionally and keep up with market trends.
+My name is Josemar dos Santos, and I am a technology student passionate about software development. I am constantly learning and exploring different programming languages and tools to grow professionally and stay up to date with current market trends.
 
 <h3 align="left">Connect with me!</h3>
 
@@ -18,6 +18,8 @@ My name is Josemar dos Santos, I’m 27 years old and a technology student passi
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%236C3483.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![DevExpress](https://img.shields.io/badge/DevExpress-FF6F00?style=for-the-badge&logo=devexpress&logoColor=white)
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket emoji" width="23" style="vertical-align:middle;"/> Stats</h2>
 
